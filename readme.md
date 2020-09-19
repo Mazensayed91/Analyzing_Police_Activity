@@ -1,5 +1,4 @@
 # (Analyzing Traffic stops by police officers)
-## by (Mazen Sayed)
 
 
 ## Dataset
