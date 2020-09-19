@@ -19,3 +19,7 @@
 ###### It seems that speeding is the most violation done
 ###### It seems that females are reckless drivers
 ###### Maybe police officers are racist ! or just Black and Hispanic race make more violations there 
+
+fast url to the data sets:
+- https://assets.datacamp.com/production/repositories/1497/datasets/02f3fb2d4416d3f6626e1117688e0386784e8e55/weather.csv
+- https://assets.datacamp.com/production/repositories/1497/datasets/62bd9feef451860db02d26553613a299721882e8/police.csv
