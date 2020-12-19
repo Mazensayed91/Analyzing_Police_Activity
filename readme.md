@@ -3,7 +3,6 @@
 
 ## Dataset
 
-- Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 - The data is collected from the state of Rhode Island to analyize traffic stops and what affects a police officers to take an action
 - Source : http://openpolicing.stanford.edu/ 
 
